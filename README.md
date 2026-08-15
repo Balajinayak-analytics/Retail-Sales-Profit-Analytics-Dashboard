@@ -259,16 +259,4 @@ Then open Power BI and import:
 
 Build the dashboard using the cards, charts, and slicers described above.
 
-## 9. Resume Project Description
-
-**Retail Sales & Profit Analytics Dashboard**  
-*Python, Pandas, SQL, SQLite, Scikit-learn, Power BI*
-
-- Built an end-to-end retail analytics pipeline using Python and Pandas for data validation, cleaning, and transformation.
-- Calculated sales, profit, and profit-margin metrics and loaded the cleaned data into SQLite for SQL analysis.
-- Developed SQL queries to analyze sales by product, region, customer, and payment method.
-- Built an interactive Power BI dashboard with KPI cards, charts, and slicers.
-- Implemented a simple Linear Regression sales forecasting component using Scikit-learn.
-
-.csv
 
